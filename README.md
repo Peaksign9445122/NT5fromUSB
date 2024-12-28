@@ -1,8 +1,8 @@
-# NT6fromUSB
-A Repository for Running Windows NT 6 from a USB Flash Drive Natively.
+# NT5fromUSB
+A Repository for Running Windows NT 5 from a USB Flash Drive Natively.
 
 
-The goal of this project is to integrate USB drivers into as many NT 6 based Windows versions as possible.
+The goal of this project is to integrate USB drivers into as many NT 5 based Windows versions as possible.
 
 This includes Windows XP (and its various editions), Windows Server 2003 (and its various editions), and Windows Embedded POSReady 2009.
 
@@ -49,10 +49,10 @@ As another warning, because of how Windows would treat the USB drive as a normal
 
 <br>This will be continuously updated as more builds are integrated with the USB drivers.
 
-Last Updated 27 December 2024
+Last Updated 28 December 2024
 
 ## Credits
-This project wouldn't be possible without the work of <ins>Emanuel Schleussinger</ins> and <ins>Andrew Illarionov (Enderman)</ins>. They essentially found the necessary configurations necessary to make NT 6 run off a USB Drive.
+This project wouldn't be possible without the work of <ins>Emanuel Schleussinger</ins> and <ins>Andrew Illarionov (Enderman)</ins>. They essentially found the necessary configurations necessary to make NT 5 run off a USB Drive.
 I just simply implement their changes into Windows, all the credit goes to them.
 
 All their details and discoveries can be found in the link here (currently hosted by Enderman): https://files.enderman.ch/documents/runwindowsxponusb.html
